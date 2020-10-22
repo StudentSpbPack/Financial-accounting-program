@@ -1,5 +1,6 @@
 # Financial-accounting-program
 Hallo everyone! I am junior programmer and that my financial accounting program with one-dimension/two-dimension of array. I will be glad to absolutely any criticism or advice about code (:
+
 The essence of the task is as follows:
 The management of the company keeps records of expenses and receipts for 12 months.
 During the year, two arrays were received - expenses and receipts.
