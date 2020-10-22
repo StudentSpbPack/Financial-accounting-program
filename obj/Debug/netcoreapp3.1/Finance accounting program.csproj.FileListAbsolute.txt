@@ -1,0 +1,13 @@
+C:\Курсяу\4\Finance accounting program\bin\Debug\netcoreapp3.1\Finance accounting program.exe
+C:\Курсяу\4\Finance accounting program\bin\Debug\netcoreapp3.1\Finance accounting program.deps.json
+C:\Курсяу\4\Finance accounting program\bin\Debug\netcoreapp3.1\Finance accounting program.runtimeconfig.json
+C:\Курсяу\4\Finance accounting program\bin\Debug\netcoreapp3.1\Finance accounting program.runtimeconfig.dev.json
+C:\Курсяу\4\Finance accounting program\bin\Debug\netcoreapp3.1\Finance accounting program.dll
+C:\Курсяу\4\Finance accounting program\bin\Debug\netcoreapp3.1\Finance accounting program.pdb
+C:\Курсяу\4\Finance accounting program\obj\Debug\netcoreapp3.1\Finance accounting program.csprojAssemblyReference.cache
+C:\Курсяу\4\Finance accounting program\obj\Debug\netcoreapp3.1\Finance accounting program.AssemblyInfoInputs.cache
+C:\Курсяу\4\Finance accounting program\obj\Debug\netcoreapp3.1\Finance accounting program.AssemblyInfo.cs
+C:\Курсяу\4\Finance accounting program\obj\Debug\netcoreapp3.1\Finance accounting program.csproj.CoreCompileInputs.cache
+C:\Курсяу\4\Finance accounting program\obj\Debug\netcoreapp3.1\Finance accounting program.dll
+C:\Курсяу\4\Finance accounting program\obj\Debug\netcoreapp3.1\Finance accounting program.pdb
+C:\Курсяу\4\Finance accounting program\obj\Debug\netcoreapp3.1\Finance accounting program.genruntimeconfig.cache

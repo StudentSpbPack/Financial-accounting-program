@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Finance accounting program/1.0.0": {
+        "runtime": {
+          "Finance accounting program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Finance accounting program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
